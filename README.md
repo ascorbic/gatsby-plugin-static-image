@@ -1,6 +1,6 @@
 # Experimental static images for Gatsby
 
-The [gatsby-image](https://www.gatsbyjs.org/packages/gatsby-image/), combined with the sharp plugin, as an awesome way to automatically resize and optimise your, and serve them on the most performant way. This plugin is a proof of concept for a simpler way to use Gatsby's image processing tools without needing to write GraphQL queries. It is designed for static images such as logos rather than ones loaded dynamically from a CMS.
+The [gatsby-image](https://www.gatsbyjs.org/packages/gatsby-image/), component combined with the sharp plugin, as an awesome way to automatically resize and optimise your images and serve them on the most performant way. This plugin is a proof of concept for a simpler way to use Gatsby's image processing tools without needing to write GraphQL queries. It is designed for static images such as logos rather than ones loaded dynamically from a CMS.
 
 The normal way to do this now is with `useStaticQuery`:
 
